@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("pokus dva")
+printf("pokus tri")
 return 0;
 }
